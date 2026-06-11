@@ -355,5 +355,4 @@ PRODUCT_PACKAGES += \
     bttpi-saidl.xml \
     factory.ssc \
     android.hardware.bluetooth@1.1-service-qti \
-    vendor.samsung.hardware.thermal@1.0-service \
     qms
